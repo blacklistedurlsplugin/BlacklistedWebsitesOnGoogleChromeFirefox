@@ -1,6 +1,6 @@
 #Default blacklist , place this file in the same directory as the application or point to it with the -w flag
-#All URLs below are blacklisted on our Google Chrome and Mozilla Firefox Plugin
+#All URLs below are blacklisted on our Google Chrome and Mozilla Firefox Plugin/Extension
 #When you try to browse the URL/Website listed below, they'll get automatically blocked in your browser
-#Total downloads of the plugin 2,354,719 users
+#Total downloads of the plugin/Extension 2,354,719 users
 #Users cannot edit this file. This file is hardcoded in the plugin.
-#Users can whitelist ANY url in .whitelist file provided. 
+#Users can manually whitelist ANY url in .whitelist file provided. 
