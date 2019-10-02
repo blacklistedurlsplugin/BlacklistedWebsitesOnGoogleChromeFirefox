@@ -3,4 +3,6 @@
 #When you try to browse the URL/Website listed below, they'll get automatically blocked in your browser
 #Total downloads of the plugin/Extension 2,354,719 users
 #Users cannot edit this file. This file is hardcoded in the plugin.
-#Users can manually whitelist ANY url in .whitelist file provided. 
+#Users can manually whitelist ANY url in .whitelist file provided.
+#Users can use this list for ad-blocking purpose. Use it on Adblock, Adblock Plus, uBlock or other Extensions.
+
